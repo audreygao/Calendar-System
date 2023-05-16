@@ -1,5 +1,5 @@
-# ECE141-wi21-assignment4
-### Due March 2, 2021 @ 11:30pm
+# Calendar Program
+### Original github classrom private repo: https://github.com/UCSD-ECE141/ece141-wi21-assignment4-audreygao
 
 ## Introduction
 This assignment will build on the ideas of Parsing from Assignment 3, and further explore the concepts we discussed related to Model/View/Controller (MVC).
